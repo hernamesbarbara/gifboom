@@ -104,3 +104,11 @@ sftp-config.json
 .RData
 
 node_modules/yt-urls.txt
+webms/*
+mp4s/*
+gifs/*
+
+*.webm
+*.mp4
+*.mp3
+*.gif
